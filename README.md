@@ -42,7 +42,7 @@
 <br>
 
 
-![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAntunesDosSantos&theme=dracula&hide_border=true&custom_title=Principais%20%linguagens)
+![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAntunes00&theme=dracula&hide_border=true&custom_title=Principais%20%linguagens)
 
 
 
