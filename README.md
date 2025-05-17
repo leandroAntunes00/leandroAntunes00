@@ -1,7 +1,7 @@
   <h1 align="center">Bem vindo(a) ao meu perfil </h1>
 
 <div align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/131140028/428245168-e21a869b-7810-40e1-a2ea-934f6fee5310.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250329%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250329T021614Z&X-Amz-Expires=300&X-Amz-Signature=285443029c866203bd7e99c0f63419a48fc03a7b36d28c8ff26b7ad60cf1a442&X-Amz-SignedHeaders=host" width="500" alt="Leandro Antunes">
+  <img src="https://blobsreceitasverdes.blob.core.windows.net/others/github-bio.png" width="500" alt="Leandro Antunes">
 </div>
 
 <div  align="center"> 
