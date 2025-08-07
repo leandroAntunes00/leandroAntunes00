@@ -8,7 +8,6 @@
   <h2 align="center">Meu nome é Leandro Antunes sou Desenvolvedor Back-End. </h2>
  </div>
 
-    
 
 <br>
 
