@@ -23,9 +23,9 @@
 <div align="center">
   <h2 align="center">:rocket: Projetos em Produção:</h2>
   <p>
-    <a href="https://madalenareceitas.com.br" target="_blank">Madalena Receitas</a> - Plataforma de receitas culinárias
+    <a href="https://madalenareceitas.com.br" target="_blank" rel="noopener noreferrer"> Madalena Receitas</a> - Plataforma de receitas culinárias
     <br>
-    <a href="https://examinlab.com.br" target="_blank">ExaminLab</a> - Sistema de simulados online
+    <a href="https://examinlab.com.br" target="_blank" rel="noopener noreferrer"> ExaminLab</a> - Sistema de simulados online
   </p>
 </div>
 
