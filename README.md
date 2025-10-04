@@ -20,6 +20,17 @@
 
 <br>
 
+<div align="center">
+  <h2 align="center">:rocket: Projetos em Produção:</h2>
+  <p>
+    <a href="https://madalenareceitas.com.br" target="_blank">Madalena Receitas</a> - Plataforma de receitas culinárias
+    <br>
+    <a href="https://examinlab.com.br" target="_blank">ExaminLab</a> - Sistema de simulados online
+  </p>
+</div>
+
+<br>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
